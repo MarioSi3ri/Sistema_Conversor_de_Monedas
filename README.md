@@ -237,7 +237,7 @@ Actualmente funciona como estructura inicial para pruebas automatizadas. No se i
 
 ## 📄 Licencia
 
-Este proyecto no incluye actualmente un archivo de licencia. Si deseas reutilizarlo o distribuirlo, consulta al autor y considera agregar una licencia de código abierto al repositorio.
+Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo [LICENSE](LICENSE) para conocer los términos completos.
 
 ---
 
